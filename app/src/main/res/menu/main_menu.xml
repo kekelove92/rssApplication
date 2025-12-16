@@ -3,6 +3,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
+        android:id="@+id/action_add"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Thêm Rss"
+        app:showAsAction="ifRoom" />
+    <item
         android:id="@+id/action_refresh"
         android:icon="@android:drawable/ic_popup_sync"
         android:title="Làm mới"

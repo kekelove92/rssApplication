@@ -230,6 +230,10 @@ public class MainActivity extends AppCompatActivity implements RssArticleAdapter
         } else if (id == R.id.action_clear) {
             clearAllArticles();
             return true;
+        } else if (id == R.id.action_add) {
+            Intent intent = new Intent(MainActivity.this, AddFeedActivity.class);
+            startActivity(intent);
+            return true;
         }
         
         return super.onOptionsItemSelected(item);
