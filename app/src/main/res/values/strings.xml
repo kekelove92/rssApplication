@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">Đọc báo RSS</string>
-    
+
     <!-- Main Activity -->
     <string name="main_title">Đọc báo RSS</string>
     <string name="refresh">Làm mới</string>
     <string name="saved_articles">Đã lưu</string>
     <string name="clear_all">Xóa tất cả</string>
     <string name="add_feed">Thêm nguồn RSS</string>
-    
+
     <!-- Add Feed Activity -->
     <string name="add_feed_title">Thêm nguồn RSS</string>
     <string name="feed_name_hint">Tên nguồn</string>
@@ -15,13 +15,13 @@
     <string name="category_label">Chuyên mục</string>
     <string name="add_feed_button">Thêm nguồn RSS</string>
     <string name="feed_suggestions">Gợi ý một số nguồn RSS:</string>
-    
+
     <!-- Article Detail Activity -->
     <string name="article_detail_title">Chi tiết bài viết</string>
     <string name="open_in_browser">Đọc bài viết đầy đủ</string>
     <string name="save_article">Lưu bài viết</string>
     <string name="share_article">Chia sẻ bài viết</string>
-    
+
     <!-- Messages -->
     <string name="loading">Đang tải…</string>
     <string name="error_no_feeds">Chưa có nguồn RSS nào. Vui lòng thêm nguồn RSS!</string>
@@ -36,11 +36,11 @@
     <string name="articles_cleared">Đã xóa tất cả bài viết</string>
     <string name="no_link">Không có link bài viết</string>
     <string name="share_via">Chia sẻ bài viết qua</string>
-    
+
     <!-- Validation -->
     <string name="error_empty_name">Vui lòng nhập tên nguồn RSS</string>
     <string name="error_empty_url">Vui lòng nhập URL RSS Feed</string>
-    
+
     <!-- Categories -->
     <string name="category_all">Tất cả</string>
     <string name="category_news">Tin tức</string>
@@ -52,10 +52,10 @@
     <string name="category_health">Sức khỏe</string>
     <string name="category_education">Giáo dục</string>
     <string name="category_travel">Du lịch</string>
-    
+
     <!-- Content Descriptions -->
     <string name="desc_article_thumbnail">Ảnh thu nhỏ bài báo</string>
     <string name="desc_article_image">Ảnh bài báo</string>
     <string name="desc_save_icon">Lưu bài viết</string>
-    <string name="desc_share_icon">Chia sẻ bài viết</string>
+    <string name="desc_share_icon">Vàng A Nhè \nCát Hoàng Long \nTrần Văn Lập \nNguyễn Vũ Hoàng \nDương Anh Tùng</string>
 </resources>

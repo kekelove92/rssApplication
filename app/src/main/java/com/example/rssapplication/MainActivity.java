@@ -234,6 +234,10 @@ public class MainActivity extends AppCompatActivity implements RssArticleAdapter
             Intent intent = new Intent(MainActivity.this, AddFeedActivity.class);
             startActivity(intent);
             return true;
+        }else if (id == R.id.action_info) {
+            Intent intent = new Intent(MainActivity.this, InfoActivity.class);
+            startActivity(intent);
+            return true;
         }
         
         return super.onOptionsItemSelected(item);
